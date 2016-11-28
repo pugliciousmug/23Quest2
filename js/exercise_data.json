@@ -4,8 +4,25 @@
     {"answer-name": "something meditative", "tag":"meditative"}]
 }]
 
-[{"outcome-name": "yoga", "tag":"yoga", "outcome-description":"the breathing and focus in yoga will help to reset your mood"},
+[ {"outcome-name": "interval sprints", "tag":"sprints","outcome-description":"High intensity training "},
   {"outcome-name": "gentle jog", "tag":"jog","outcome-description":"Just a 20 minute jog outside is proven to release endorphins to help boost your mood"},
-  {"outcome-name": "interval sprints", "tag":"sprints","outcome-description":"High intensity training "}
+  {"outcome-name": "yoga", "tag":"yoga", "outcome-description":"the breathing and focus in yoga will help to reset your mood"}]
+  }]
 
-  ]
+  [{"What's the weather like today?":
+    [{"answer-name": "rainy", "tag":"rainy"},
+      {"answer-name": "freezing", "tag":"freezing"},
+      {"answer-name": "sunny", "tag":"sunny"},
+      {"answer-name": "windy", "tag":"windy"},
+      {"answer-name": "boiling", "tag":"boiling"}]
+    }]
+
+    [{"outcome-name": "Home workout!", "tag":"gym", "outcome-description":"It's raining but you can still get a workout in. Pick one of our recommended workouts."},
+      {"outcome-name": "Freezing and sunny or just plain freezing?", "tag":"freezing","outcome-description":"If you've managed to catch some sunshine on a freezing day, wrap up and get your vitamin D! If it's too miserable, get a home workout in."},
+      {"outcome-name": "Get out under that gorgerous sunshine", "tag":"sunshine","outcome-description":"Just 15 minutes of natural sunlight a day will increase Vitamin D levels which can decrease symptoms of anxiety and depression. "},
+      {"outcome-name": "Home workout!", "tag":"gym", "outcome-description":"It's raining but you can still get a workout in. Pick one of our recommended workouts."},
+      {"outcome-name": "Get to somewhere with air-con!", "tag":"air-con","outcome-description":"Got a gym membership? Great, head there! If not, plug a fan in or get those windows open."}
+      ]
+
+
+          ]
