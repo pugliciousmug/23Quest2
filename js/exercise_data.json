@@ -1,0 +1,11 @@
+[{"What sort of exercise do you think will help your mood?":
+  [{"answer-name": "something energetic", "tag":"energetic"},
+    {"answer-name": "something gentle", "tag":"gentle"},
+    {"answer-name": "something meditative", "tag":"meditative"}]
+}]
+
+[{"outcome-name": "yoga", "tag":"yoga", "outcome-description":"the breathing and focus in yoga will help to reset your mood"},
+  {"outcome-name": "gentle jog", "tag":"jog","outcome-description":"Just a 20 minute jog outside is proven to release endorphins to help boost your mood"},
+  {"outcome-name": "interval sprints", "tag":"sprints","outcome-description":"High intensity training "}
+
+  ]
